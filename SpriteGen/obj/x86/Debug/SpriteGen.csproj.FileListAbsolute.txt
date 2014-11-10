@@ -1,0 +1,7 @@
+E:\Docs\Code\SpriteGen\SpriteGen\obj\x86\Debug\SpriteGen.Properties.Resources.resources
+E:\Docs\Code\SpriteGen\SpriteGen\obj\x86\Debug\SpriteGen.SpriteEditor.resources
+E:\Docs\Code\SpriteGen\SpriteGen\obj\x86\Debug\SpriteGen.csproj.GenerateResource.Cache
+E:\Docs\Code\SpriteGen\SpriteGen\bin\Debug\SpriteGen.exe
+E:\Docs\Code\SpriteGen\SpriteGen\bin\Debug\SpriteGen.pdb
+E:\Docs\Code\SpriteGen\SpriteGen\obj\x86\Debug\SpriteGen.exe
+E:\Docs\Code\SpriteGen\SpriteGen\obj\x86\Debug\SpriteGen.pdb
